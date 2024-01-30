@@ -1,0 +1,51 @@
+Serial_Number,Customer_ID,Food_ID,Food_Name,Rating,Review
+1,01,HS001,Pizza,4,Delicious pizza loved it!
+2,02,HS002,Burger,3.5,Nice burger but could be better.
+3,03,HS003,Pasta,4.5,Amazing pasta highly recommended!
+4,04,HS004,Sushi,5,Perfectly prepared sushi loved the freshness.
+5,05,HS005,Steak,4.8,Delicious steak cooked to perfection.
+6,06,HS006,Sandwich,3,Decent sandwich good for a quick bite.
+7,07,HS007,Salad,4,Healthy and tasty salad option.
+8,08,HS001,Pizza,4.2,Great pizza will order again.
+9,09,HS002,Burger,3.7,Tasty burger but a bit overpriced.
+10,10,HS003,Pasta,4.7,Incredible pasta loved the sauce.
+11,11,HS004,Sushi,4.9,Top-quality sushi a must-try!
+12,12,HS005,Steak,4.5,Yummy steak will recommend to friends.
+13,13,HS006,Sandwich,3.2,Okay sandwich nothing special.
+14,14,HS007,Salad,3.8,Fresh ingredients in the salad enjoyed it.
+15,15,HS001,Pizza,4.6,Delightful pizza perfect for family gatherings.
+16,16,HS002,Burger,4.3,Delicious burger worth the price.
+17,17,HS003,Pasta,4.9,Exquisite pasta my new favorite dish.
+18,18,HS004,Sushi,4.7,Delicious sushi rolls will order again.
+19,19,HS005,Steak,4.6,Tender and flavorful steak loved it.
+20,20,HS006,Sandwich,3.5,Decent sandwich but nothing extraordinary.
+21,21,HS007,Salad,4.1,Healthy and tasty salad perfect for a light meal.
+22,22,HS001,Pizza,4.8,Amazing pizza one of the best I've had.
+23,23,HS002,Burger,4.5,Great burger will come back for more.
+24,24,HS003,Pasta,4.8,Incredible pasta dish worth every penny.
+25,25,HS004,Sushi,5,Outstanding sushi the fish was so fresh.
+26,26,HS005,Steak,4.9,Flavorful steak cooked to perfection.
+27,27,HS006,Sandwich,3.3,Mediocre sandwich expected better.
+28,28,HS007,,3.9,Tasty and fresh salad good portion size.
+29,29,HS001,Pizza,4.5,Delicious pizza will order again soon.
+30,30,HS002,Burger,4.7,Scrumptious burger highly recommended.
+31,31,HS003,Pasta,4.5,Yummy pasta great for pasta lovers.
+32,32,HS004,Sushi,4.6,
+33,33,HS005,Steak,4.7,Excellent steak exceeded expectations.
+34,34,HS006,Sandwich,3.4,Just an average sandwich not bad nor great.
+35,35,HS007,Salad,,Fresh and healthy salad enjoyed it.
+36,36,HS001,Pizza,,Good pizza but delivery took longer.
+37,37,HS002,Burger,4.8,Delicious and juicy burger loved it.
+38,38,HS003,Pasta,4.7,Delectable pasta worth trying.
+39,39,,Sushi,4.8,High-quality sushi great taste.
+40,40,HS005,Steak,4.9,Exceptional steak a delightful meal.
+41,41,HS006,Sandwich,3.6,Decent sandwich suitable for a quick lunch.
+42,42,HS007,Salad,4.5,Tasty salad fresh ingredients used.
+43,43,HS001,Pizza,4.2,Good pizza but a bit greasy.
+44,44,HS002,Burger,4.9,Outstanding burger will come back again.
+45,45,HS003,,4.6,Scrumptious pasta great presentation.
+46,46,HS004,Sushi,4.7,Delicious sushi generous portions.
+47,47,HS005,Steak,4.8,Superbly cooked steak enjoyed every bite.
+48,48,HS006,Sandwich,3.1,
+49,49,HS007,Salad,4.3,Tasty and healthy salad perfect for diet-conscious.
+50,50,HS001,Pizza,4.7,Flavorful pizza satisfied with the order.
