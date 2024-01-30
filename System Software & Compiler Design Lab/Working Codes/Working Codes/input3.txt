@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+/* This is a multi-line
+   comment that should be
+   stored separately. */
+
+int main() {
+    printf("Hello, world!\n"); //This is a comment
+    return 0;
+}
