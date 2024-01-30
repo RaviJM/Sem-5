@@ -1,0 +1,5 @@
+give IP to all pc and routers, add their gateway as their router's IP
+
+also give each router the number of serial address as the number of other routers connected to it
+
+also, give RIP address

@@ -1,0 +1,3 @@
+configure router with 2 IPs
+
+give each PC and each Server the gateway ip of the router
