@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Working Buttons</title>
+</head>
+<body>
+    <button onclick="showAlert()">Alert</button>
+    <button onclick="showConfirm()">Confirm</button>
+    <button onclick="showPrompt()">Prompt</button>
+    <h4 id="demo"></h4>
+
+
+    <script>
+        function showAlert() {
+            alert("This is an alert dialog!");
+        }
+
+
+        function showConfirm() {
+            var result = confirm("Do you want to confirm?");
+        }
+
+
+        function showPrompt() {
+            var input = prompt("Please enter your name:", "name");
+            if (input != null){
+                if (input) {
+                    document.getElementById("demo").innerHTML = "Hello " + input + "! How are you today?";
+                }
+            }
+        }
+    </script>
+
+    <?php
+    echo date('l');
+    ?>
+
+    </body>
+</body>
+</html>

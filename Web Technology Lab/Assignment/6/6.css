@@ -1,0 +1,11 @@
+.username:hover {
+    background-color: yellow;
+}
+
+.password:hover {
+    background-color: pink;
+}
+
+.options:hover {
+    color: red;
+}

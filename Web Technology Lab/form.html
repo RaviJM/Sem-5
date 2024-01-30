@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Form</title>
+    <style>
+        form{
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Registration Page:</legend>
+
+            <label for="ename">Employee Name: </label>
+            <input type="text" id="ename"><br><br>
+
+            <label for="job">Job: </label>
+            <select>
+                <option>Salesman</option>
+                <option>Manager</option>
+                <option>Clerk</option>
+                <option>Analyst</option>
+                
+            </select>
+            <br>
+            <br>
+
+            <label for="email">email: </label>
+            <input type="text" id="email"><br><br>
+
+            <label for="Password">Password: </label>
+            <input type="password" id="password"><br><br>
+
+            <label for="re-Password">re-Password: </label>
+            <input type="password" id="re-password" placeholder="Confirm Your Password"><br><br>
+
+            <label for="Gender">Gender: </label>
+            <input type="radio" id="Male" name ="Gender" value="Male">
+            <label for="male">Male</label>
+            <input type="radio" id="Female" name ="Gender" value="Female">
+            <label for="female">Female</label>
+            <br><br>
+
+            <label for="birthday">Birthday: </label>
+            <input type="date" id="birthday"><br><br>
+            
+            <label for="salary">Salary: </label>
+            <input type="number" id="salary"><br><br>
+
+            <label for="commission">commission: </label>
+            <input type="number" id="commission"><br><br>
+
+            <label for="total-salary">Total Salary: </label>
+            <input type="number" id="total-salary" placeholder="NaN"><br><br>
+
+            <button>Submit</button>
+            <button>Reset</button>
+            
+
+        </fieldset>
+    </form>
+</body>
+</html>

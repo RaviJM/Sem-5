@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://imagebee.org/patterns/hello/hello-1-1920x1080.jpg");
+    background-size: 200px 200px;
+    background-repeat: repeat-y;
+}
+
+.heading {
+    font-size: 120%;
+}
+
+.arial {
+    font-weight: 700;
+    font-family: Arial;
+    margin-top: 3cm;
+}
